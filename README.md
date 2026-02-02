@@ -1,4 +1,11 @@
 <img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/b01a83bf-9cf5-4e48-a115-930b5f7eb44a" />
+## 🏢 Company Background — Glovix Essentials
+
+Glovix Essentials is a retail brand specializing in practical household and kitchen products designed to improve everyday living. The company offers items such as storage solutions, cookware, and home organization tools that cater to modern households.
+
+As Glovix Essentials grew its customer base, management needed clearer visibility into sales performance, customer purchasing behaviour, and product demand. Understanding which products drive the most revenue and which customers contribute the most value became important for business growth.
+
+This project analyses Glovix Essentials’ sales data to generate insights that support better sales strategy, customer targeting, and product planning.
 
 
 # 🛒 Glovix Essentials Sales Analysis
