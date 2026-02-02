@@ -1,3 +1,4 @@
+<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/b01a83bf-9cf5-4e48-a115-930b5f7eb44a" />
 
 
 # 🛒 Glovix Essentials Sales Analysis
