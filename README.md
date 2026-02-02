@@ -85,5 +85,12 @@ Without structured analysis, it was difficult to identify key revenue drivers.
 
 ---
 
-"C:\Users\44737\OneDrive\Pictures\Screenshots\Screenshot 2026-02-02 215138.png"
+<img width="1345" height="547" alt="Screenshot 2026-02-02 215138" src="https://github.com/user-attachments/assets/deb4ab88-a3d1-44a3-87b9-b933f328b70d" />
+<img width="1354" height="544" alt="Screenshot 2026-02-02 215158" src="https://github.com/user-attachments/assets/d2c76e0d-a360-4f1d-bdd8-f4ceda339630" />
+<img width="1361" height="558" alt="Screenshot 2026-02-02 215213" src="https://github.com/user-attachments/assets/ad235ae4-2149-43ae-8907-eac95db09637" />
+<img width="1363" height="525" alt="Screenshot 2026-02-02 215227" src="https://github.com/user-attachments/assets/cdc8b40a-4151-4906-9bd7-dfb32b104c81" />
+
+
+
+
 
