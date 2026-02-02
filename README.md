@@ -85,4 +85,5 @@ Without structured analysis, it was difficult to identify key revenue drivers.
 
 ---
 
+"C:\Users\44737\OneDrive\Pictures\Screenshots\Screenshot 2026-02-02 215138.png"
 
